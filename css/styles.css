@@ -49,3 +49,53 @@ img {
   box-sizing: border-box;
 }
 
+.header {
+  display: flex;
+}
+
+.hero {
+  background-image: url(../images/hero/hero-desk.jpg);
+  width: 1360px;
+height: 768px;
+}
+
+.hero-button {
+  color: #FFF;
+text-align: center;
+font-family: Open Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28.16px;
+border-radius: 5px;
+background: #28A745;
+
+}
+
+.angel-right {
+  color: #fff;
+  width: 9px;
+  height: 18px;
+}
+
+.hero-description {
+  color: #E9E9E9;
+text-align: center;
+font-family: Open Sans;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: 36.8px;
+margin-bottom: 29px;
+}
+
+.hero-title {
+  color: #E9E9E9;
+text-align: center;
+font-family: Open Sans;
+font-size: 55px;
+font-style: normal;
+font-weight: 300;
+line-height: 66px;
+margin-bottom: 45px;
+}
